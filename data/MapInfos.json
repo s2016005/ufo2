@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":true,"name":"uchikoshi1","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"uchikoshi2","order":2,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":true,"name":"uchikoshi3","order":5,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":true,"name":"uchikoshi4","order":6,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":true,"name":"uchikoshi5","order":7,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":true,"name":"uchikoshi6","order":8,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":7,"expanded":true,"name":"03中央広場1","order":9,"parentId":0,"scrollX":855.4285714285713,"scrollY":557.1428571428571},
+{"id":8,"expanded":true,"name":"02アリーナ前","order":3,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":true,"name":"02アリーナ1階","order":4,"parentId":2,"scrollX":832,"scrollY":640}
+]
